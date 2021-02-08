@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactrouter_navigaton_test/static/css/main.1290dbc7.chunk.css",
+    "main.js": "/reactrouter_navigaton_test/static/js/main.50aedc60.chunk.js",
+    "main.js.map": "/reactrouter_navigaton_test/static/js/main.50aedc60.chunk.js.map",
+    "runtime-main.js": "/reactrouter_navigaton_test/static/js/runtime-main.1869ef52.js",
+    "runtime-main.js.map": "/reactrouter_navigaton_test/static/js/runtime-main.1869ef52.js.map",
+    "static/js/2.78a7b477.chunk.js": "/reactrouter_navigaton_test/static/js/2.78a7b477.chunk.js",
+    "static/js/2.78a7b477.chunk.js.map": "/reactrouter_navigaton_test/static/js/2.78a7b477.chunk.js.map",
+    "index.html": "/reactrouter_navigaton_test/index.html",
+    "static/css/main.1290dbc7.chunk.css.map": "/reactrouter_navigaton_test/static/css/main.1290dbc7.chunk.css.map",
+    "static/js/2.78a7b477.chunk.js.LICENSE.txt": "/reactrouter_navigaton_test/static/js/2.78a7b477.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1869ef52.js",
+    "static/js/2.78a7b477.chunk.js",
+    "static/css/main.1290dbc7.chunk.css",
+    "static/js/main.50aedc60.chunk.js"
+  ]
+}
